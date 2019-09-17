@@ -1,0 +1,6 @@
+this update makes it so that every change made in schedulepage is saved automatically
+buttons are also formatted better based on input, and text size changes automatically if it doesnt fit
+
+changes were made in schedulepage, mainbutton
+
+no additional files were created

@@ -1,0 +1,2 @@
+['Schedule test 1', True, [['test', 1.0, True, 0, 0.7, 'work'], ['empty', 20.0, True, 1, 0.8333333333333334, 'work'], ['empty', 20.0, False, 2, 0.2, 'work']]]
+['Unnamed Schedule', False, [['empty', 20.0, False, 0, 0.0, 'work'], ['empty', 20.0, False, 1, 0.0, 'work']]]
